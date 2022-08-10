@@ -1,7 +1,7 @@
 {
-  "name": "multiselect-react-dropdown",
-  "version": "2.0.24",
-  "description": "React multiselect dropdown component with search and various features",
+  "name": "@dane-git/multiselect-react-dropdown",
+  "version": "002.0.24",
+  "description": "React multiselect dropdown component with search and various features. editied styles",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {
