@@ -62,7 +62,7 @@
   cursor: pointer;
 }
 .optionListContainer {
-  position: absolute;
+  position: relative;
   width: 100%;
   background: #fff;
   border-radius: 4px;
